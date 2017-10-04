@@ -100,6 +100,7 @@ $di->set('flash', function () {
         'notice'  => 'alert alert-info',
         'warning' => 'alert alert-warning'
     ]);
+
 });
 
 /**
